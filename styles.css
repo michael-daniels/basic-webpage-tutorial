@@ -1,0 +1,24 @@
+h1 {
+  color:red;
+}
+.banner {
+  text-align: center;
+  background-image: url('https://wallpapercave.com/wp/kxgjWfH.jpg');
+  height:30vh;
+  padding:10vh 10px;
+}
+.blurb {
+  text-align: center;
+  min-height: 20vh;
+  border: 2px gray solid
+}
+.section-image {
+  width:100%;
+}
+.fas {
+  font-size:50px;
+}
+footer {
+  min-height:10vh;
+  background-color: #f2f2f2;
+}
